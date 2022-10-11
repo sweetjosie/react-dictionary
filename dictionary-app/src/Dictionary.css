@@ -1,3 +1,18 @@
-.Dictionary{
-    font-family: 'Times New Roman', Times, serif;
+.Dictionary section{
+   background-color: rgba(13, 121, 148, 0.685);
+   padding: 30px;
+   border-radius: 4px;
+   margin: 15px 80px;
+
+}
+.Dictionary input{
+    width:60%;
+    height: 40px;
+    color: #333;
+    border: 1px solid;
+    border-radius: 4px;
+}
+.hint{
+    margin-top: 5px;
+    font-size: 10px;
 }
