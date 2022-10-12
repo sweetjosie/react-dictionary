@@ -1,3 +1,26 @@
-.pronounciation{
-    margin: 20px;
+.Phonetics{
+    height: 50px;
+    font-size: 20px;
+     font-weight: bold;
 }
+
+
+.Phonetics a{
+    border: 1px solid black;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background: aliceblue;
+    color:gray;
+    transition: all 150ms ease-in-out;
+   
+    margin-right: 15px;
+    
+
+}
+ .Phonetics a:hover{
+    background: gray;
+    color: aliceblue;
+
+ }
