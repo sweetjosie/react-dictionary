@@ -1,5 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import "./Phonetics.css"
 
 
 
@@ -14,7 +15,8 @@ export default function Phonetics(props){
      
             </a>
             <br/>
-            {props.phonetic.text}
+            <div className="pronouciation">{props.phonetic.text}</div>
+            
         </div>
     );
 } 
