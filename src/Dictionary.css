@@ -1,8 +1,11 @@
+.Dictionary form{
+    font-size: 24px;
+}
 .Dictionary section{
-   background-color: rgba(13, 121, 148, 0.685);
+   background-color: rgba(13, 121, 148, 0.5);
    padding: 30px;
    border-radius: 4px;
-   margin: 15px 80px;
+   margin: 15px 100px;
 
 }
 .Dictionary input{
@@ -11,8 +14,11 @@
     color: #333;
     border: 1px solid;
     border-radius: 4px;
+    font-size: 20px;
+    opacity: 0.5;
 }
 .hint{
     margin-top: 5px;
-    font-size: 10px;
+    font-size: 15px;
+    font-style: italic;
 }

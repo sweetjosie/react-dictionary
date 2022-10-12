@@ -9,10 +9,10 @@ function App() {
       <div className='container'> 
       <header className="App-header">
        <h1 >
-            English Dictionary App
+             Dictionary App
           </h1>
       <main>
-      <Dictionary defaultKeyword="sunset"/>
+      <Dictionary defaultKeyword="Sunset"/>
       </main>
       </header>
       <br/>
