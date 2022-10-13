@@ -8,6 +8,11 @@ text-transform: capitalize;
 
 .Meaning .Examples{
    margin-top: 10px;
-    opacity: 0.7;
+    opacity: 0.8;
     font-style: italic;
+}
+
+.Meaning {
+  font-family:'Prata', serif;
+  font-size: 16px;
 }

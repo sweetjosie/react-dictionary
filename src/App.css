@@ -4,14 +4,27 @@ body{
 
 a {
   color: navy;
+
+}
+.App{
+  max-width: 990px;
+  margin: 0 auto;
 }
 .App h1 {
   text-align: center;
-  font-size: 36px;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  margin: 40px;
+  font-size: 40px;
+  font-weight: bold;
+  
+  margin: 10px;
+}
+.font-link{
+  font-family:'Prata', serif;
+}
+footer{
+  text-align: center;
+  font-weight: bold;
+  margin: 30px;
 }
 
-
-
+/*font-family:'Meow Script', cursive;*/
 
